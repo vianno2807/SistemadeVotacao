@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6490acefa45fab381312c870"
+  },
+  "nome": "Marcos",
+  "endereco": "Rua M",
+  "numRegistroEleitor": "56569",
+  "senha": "3211",
+  "perfil": "eleitor"
+},
+{
+  "_id": {
+    "$oid": "6490ad0aa45fab381312c872"
+  },
+  "nome": "Tiago",
+  "endereco": "Rua T",
+  "numRegistroEleitor": "65",
+  "senha": "1414",
+  "perfil": "eleitor"
+},
+{
+  "_id": {
+    "$oid": "6490ad23a45fab381312c874"
+  },
+  "nome": "Vinicius",
+  "endereco": "Rua V",
+  "numRegistroEleitor": "58",
+  "senha": "7774",
+  "perfil": "eleitor"
+},
+{
+  "_id": {
+    "$oid": "6490ad3ba45fab381312c876"
+  },
+  "nome": "Catarina",
+  "endereco": "Rua C",
+  "numRegistroEleitor": "87",
+  "senha": "77365",
+  "perfil": "administrador"
+},
+{
+  "_id": {
+    "$oid": "6490b5c1ffdfca7b5ffae4c0"
+  },
+  "nome": "yuri",
+  "endereco": "rua O",
+  "numRegistroEleitor": "555",
+  "senha": "6969",
+  "perfil": "eleitor"
+}]
